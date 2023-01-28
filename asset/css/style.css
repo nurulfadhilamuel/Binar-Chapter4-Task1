@@ -1,0 +1,40 @@
+.error{
+    left: 750px;
+    color: rgb(33, 37, 122);
+}
+
+.error h1 {
+    font-size: 150px;
+    margin-left: 760px;
+    margin-top: -30px;
+}
+
+.error h2 {
+    font-size: 40px;
+    margin-top: -420px;
+    margin-left: 835px;
+}
+
+.error p {
+    font-size: 20px;
+    font-style: normal;
+    margin-left: 745px;
+    margin-top: -100px;
+}
+
+.error button{
+    background: #3d9b5f;
+    font-size: 14px;
+    width: 140px;
+    height: 30px;
+    border: 5px;
+    margin-left: 800px;
+}
+.error button a{
+    text-decoration: none;
+    color: white;
+}
+img {
+    margin-left: 200px;
+    padding-top: 20px;
+}
